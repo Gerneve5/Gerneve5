@@ -3,26 +3,31 @@
 Senior AI/ML Engineer with a passion for building intelligent systems and driving innovation in machine learning, deep learning, and data science.
 
 ### 🔭 I’m currently working on
-- **Neural Vision Core**: A high-performance computer vision library built with PyTorch.
-- **ML Ops Pipeline**: Automated CI/CD pipeline for machine learning models.
-- **Fast Inference Engine**: C++ implementation of a lightweight inference engine for edge devices.
+- **Distributed Transformer Core**: High-performance Transformer architectures for distributed training.
+- **Edge AI Optimizer**: Toolkit for optimizing deep learning models for edge deployment.
+- **Autonomous Perception System**: Sensor fusion and deep learning for autonomous vehicles.
+- **Generative Adversarial Lab**: Research and implementation of advanced GAN architectures.
+- **Reinforcement Learning Agents**: State-of-the-art RL algorithms (PPO, SAC, DQN).
 
-### 🌱 I’m currently learning
-- Advanced Reinforcement Learning techniques.
-- Quantum Computing for Machine Learning.
+### 🛠️ Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, TypeScript, SQL, Bash |
+| **AI/ML** | PyTorch, TensorFlow, Scikit-learn, ONNX, Transformers |
+| **MLOps** | Docker, Kubernetes, GitHub Actions, MLflow, Weights & Biases |
+| **Data** | Pandas, NumPy, PostgreSQL, Redis, Apache Spark |
+| **Tools** | Git, Linux, AWS, GCP, CUDA |
 
-### 💬 Ask me about
-- Machine Learning, Deep Learning, Computer Vision, and MLOps.
-- Scalable system design and high-performance computing.
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gerneve5&show_icons=true&theme=radical&count_private=true" alt="Ethan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerneve5&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ### 📫 How to reach me:
 - Twitter: [@EthanReed_AI](https://twitter.com/EthanReed_AI)
 - LinkedIn: [Ethan Reed](https://www.linkedin.com/in/ethanreed-ai)
 
-### ⚡ Fun fact:
-- I love exploring the intersection of AI and creative arts.
-
 ---
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerneve5&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerneve5&layout=compact&theme=radical)
+"The best way to predict the future is to invent it." – Alan Kay
